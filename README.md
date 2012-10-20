@@ -1,9 +1,6 @@
-This rank was generated with [github-rank](https://github.com/ciembor/github-rank).
-
-Ranks for the Polish cities: 
-
 <h1 id="polska">Polska</h1>
-
+Ranks for the Polish cities: 
+[Warszawa](https://github.com/ciembor/polish-github-rank/blob/master/locations/warszawa.md) / [Kraków](https://github.com/ciembor/polish-github-rank/blob/master/locations/krakow.md) / [Łódź](https://github.com/ciembor/polish-github-rank/blob/master/locations/lodz.md) / [Wrocław](https://github.com/ciembor/polish-github-rank/blob/master/locations/wroclaw.md) / [Poznań](https://github.com/ciembor/polish-github-rank/blob/master/locations/poznan.md) / [Gdańsk](https://github.com/ciembor/polish-github-rank/blob/master/locations/gdansk.md) / [Szczecin](https://github.com/ciembor/polish-github-rank/blob/master/locations/szczecin.md) / [Katowice](https://github.com/ciembor/polish-github-rank/blob/master/locations/katowice.md) / [Gdynia](https://github.com/ciembor/polish-github-rank/blob/master/locations/gdynia.md)
 <h2>Top Users</h2>
 <table>
   <tr>
@@ -710,3 +707,5 @@ Ranks for the Polish cities:
   </tr>
   
 </table>
+
+This rank was generated with [github-rank](https://github.com/ciembor/github-rank).

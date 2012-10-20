@@ -696,36 +696,4 @@
     </td>
   </tr>
   
-  <tr>
-    <th>21</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/rails4/inception">inception</a></td>
-    <td><a href="https://github.com/rails4">rails4</a></td>
-    <td>4</td>
-    <td>
-    
-      JavaScript
-    
-    </td>
-    <td>
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>22</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/3783f3806f8ce931f8f73bb354f27632?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/retio/kohana-leaflet">kohana-leaflet</a></td>
-    <td><a href="https://github.com/retio">retio</a></td>
-    <td>4</td>
-    <td>
-    
-      PHP
-    
-    </td>
-    <td>
-    
-    </td>
-  </tr>
-  
 </table>

@@ -20,7 +20,7 @@
       
     </td>
     <td><a href="https://github.com/josevalim">josevalim</a></td>
-    <td>3555</td>
+    <td>3585</td>
     <td>    
     
       <a href="http://blog.plataformatec.com.br/">website</a>
@@ -37,7 +37,7 @@
       
     </td>
     <td><a href="https://github.com/sickill">sickill</a></td>
-    <td>2651</td>
+    <td>2681</td>
     <td>    
     
       <a href="http://ku1ik.com">website</a>
@@ -54,7 +54,7 @@
       
     </td>
     <td><a href="https://github.com/solnic">solnic</a></td>
-    <td>1088</td>
+    <td>1142</td>
     <td>    
     
       <a href="http://solnic.eu">website</a>
@@ -71,7 +71,7 @@
       
     </td>
     <td><a href="https://github.com/applicake">applicake</a></td>
-    <td>762</td>
+    <td>776</td>
     <td>    
     
       <a href="http://applicake.com">website</a>
@@ -84,11 +84,11 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/a8cb0cb6a2406ee9d85ea72f7c040697?s=36') 2px 2px no-repeat"></td>
     <td>
     
-      <strong>Jakub Suder</strong>
+      <strong>Kuba Suder</strong>
       
     </td>
     <td><a href="https://github.com/psionides">psionides</a></td>
-    <td>414</td>
+    <td>420</td>
     <td>    
     
       <a href="http://psionides.eu">website</a>
@@ -105,7 +105,7 @@
       
     </td>
     <td><a href="https://github.com/nbartlomiej">nbartlomiej</a></td>
-    <td>359</td>
+    <td>360</td>
     <td>    
     
       <a href="http://twitter.com/nbartlomiej">website</a>
@@ -122,7 +122,7 @@
       
     </td>
     <td><a href="https://github.com/ciembor">ciembor</a></td>
-    <td>274</td>
+    <td>284</td>
     <td>    
     
       <a href="http://ciemborowicz.pl">website</a>
@@ -139,7 +139,7 @@
       
     </td>
     <td><a href="https://github.com/TobiaszCudnik">TobiaszCudnik</a></td>
-    <td>265</td>
+    <td>271</td>
     <td>    
     
       <a href="https://github.com/TobiaszCudnik">website</a>
@@ -156,7 +156,7 @@
       
     </td>
     <td><a href="https://github.com/fridek">fridek</a></td>
-    <td>227</td>
+    <td>228</td>
     <td>    
     
       <a href="http://www.smashinglabs.pl">website</a>
@@ -173,7 +173,7 @@
       
     </td>
     <td><a href="https://github.com/LunarLogicPolska">LunarLogicPolska</a></td>
-    <td>191</td>
+    <td>195</td>
     <td>    
     
       <a href="http://www.lunarlogicpolska.com/blog">website</a>
@@ -205,7 +205,7 @@
       
     </td>
     <td><a href="https://github.com/ktoso">ktoso</a></td>
-    <td>174</td>
+    <td>176</td>
     <td>    
     
       <a href="http://www.project13.pl">website</a>
@@ -222,7 +222,7 @@
       
     </td>
     <td><a href="https://github.com/widmogrod">widmogrod</a></td>
-    <td>165</td>
+    <td>168</td>
     <td>    
     
       <a href="http://blog.widmogrod.info">website</a>
@@ -239,7 +239,7 @@
       
     </td>
     <td><a href="https://github.com/macbury">macbury</a></td>
-    <td>162</td>
+    <td>167</td>
     <td>    
     
       <a href="http://macbury.pl">website</a>
@@ -249,6 +249,23 @@
   
   <tr>
     <th>15</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/dbb68f76a8af5491f3ad4f12685bd437?s=36') 2px 2px no-repeat"></td>
+    <td>
+    
+      <strong>Krzysztof Gabis</strong>
+      
+    </td>
+    <td><a href="https://github.com/kgabis">kgabis</a></td>
+    <td>156</td>
+    <td>    
+    
+      <a href="http://kgabis.github.com">website</a>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>16</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/f6faa607e4f541da71fbf8aea6f99a7a?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -256,7 +273,7 @@
       
     </td>
     <td><a href="https://github.com/felipeelias">felipeelias</a></td>
-    <td>133</td>
+    <td>140</td>
     <td>    
     
       <a href="http://coderwall.com/felipeelias">website</a>
@@ -265,7 +282,7 @@
   </tr>
   
   <tr>
-    <th>16</th>
+    <th>17</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/cfbff295f769f07763f88e0148ac678b?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -273,7 +290,7 @@
       
     </td>
     <td><a href="https://github.com/SzymonPobiega">SzymonPobiega</a></td>
-    <td>128</td>
+    <td>130</td>
     <td>    
     
       <a href="http://simon-says-architecture.com/">website</a>
@@ -282,7 +299,7 @@
   </tr>
   
   <tr>
-    <th>17</th>
+    <th>18</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/7c267f52cf25ca9f0861ea80d0b3d08a?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -299,7 +316,7 @@
   </tr>
   
   <tr>
-    <th>18</th>
+    <th>19</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/4e5271b45f88568ba85abd28acb3d43f?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -307,7 +324,7 @@
       
     </td>
     <td><a href="https://github.com/TeMPOraL">TeMPOraL</a></td>
-    <td>115</td>
+    <td>116</td>
     <td>    
     
       <a href="http://temporal.pr0.pl/devblog/">website</a>
@@ -316,35 +333,18 @@
   </tr>
   
   <tr>
-    <th>19</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/5f18f7e503baa430950e10b92d88fc6b?s=36') 2px 2px no-repeat"></td>
-    <td>
-    
-      <strong>Marcin Bunsch</strong>
-      
-    </td>
-    <td><a href="https://github.com/marcinbunsch">marcinbunsch</a></td>
-    <td>111</td>
-    <td>    
-    
-      <a href="http://futuresimple.com">website</a>
-    
-    </td>
-  </tr>
-  
-  <tr>
     <th>20</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/2aaba8dc5d4b250e1e29d8977249ed31?s=36') 2px 2px no-repeat"></td>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/b68aa8801e1d0ce432b8d5f826494078?s=36') 2px 2px no-repeat"></td>
     <td>
     
-      <strong>Łukasz Bandzarewicz</strong>
+      <strong>Adam Pohorecki</strong>
       
     </td>
-    <td><a href="https://github.com/lucassus">lucassus</a></td>
-    <td>107</td>
+    <td><a href="https://github.com/psyho">psyho</a></td>
+    <td>110</td>
     <td>    
     
-      <a href="http://blog.bandzarewicz.com">website</a>
+      <a href="http://adam.pohorecki.pl">website</a>
     
     </td>
   </tr>
@@ -368,7 +368,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/e837f6b7fd146ab16ed3d663476c063e?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/josevalim/inherited_resources">inherited_resources</a></td>
     <td><a href="https://github.com/josevalim">josevalim</a></td>
-    <td>1800</td>
+    <td>1817</td>
     <td>
     
       Ruby
@@ -386,7 +386,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/e837f6b7fd146ab16ed3d663476c063e?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/josevalim/rails-footnotes">rails-footnotes</a></td>
     <td><a href="https://github.com/josevalim">josevalim</a></td>
-    <td>1030</td>
+    <td>1037</td>
     <td>
     
       Ruby
@@ -404,7 +404,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/e864e5088627498df8f9b911a9bc3219?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/solnic/virtus">virtus</a></td>
     <td><a href="https://github.com/solnic">solnic</a></td>
-    <td>876</td>
+    <td>923</td>
     <td>
     
       Ruby
@@ -422,7 +422,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/9cecfc695240b56e5d3c1a5dc3830967?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/sickill/git-dude">git-dude</a></td>
     <td><a href="https://github.com/sickill">sickill</a></td>
-    <td>684</td>
+    <td>694</td>
     <td>
     
       Shell
@@ -440,7 +440,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/becc237248e3c8960bc6b14d6c4519a0?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/applicake/doorkeeper">doorkeeper</a></td>
     <td><a href="https://github.com/applicake">applicake</a></td>
-    <td>664</td>
+    <td>675</td>
     <td>
     
       Ruby
@@ -494,7 +494,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/d931e882413a3a40b0dc508b7a5f5de0?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/futuresimple/FSVerticalTabBarController">FSVerticalTabBarController</a></td>
     <td><a href="https://github.com/futuresimple">futuresimple</a></td>
-    <td>306</td>
+    <td>309</td>
     <td>
     
       Objective-C
@@ -510,7 +510,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/9cecfc695240b56e5d3c1a5dc3830967?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/sickill/stderred">stderred</a></td>
     <td><a href="https://github.com/sickill">sickill</a></td>
-    <td>297</td>
+    <td>302</td>
     <td>
     
       C
@@ -528,7 +528,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/9612beda35f8cf8e255a07eced910800?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/appelier/bigtuna">bigtuna</a></td>
     <td><a href="https://github.com/appelier">appelier</a></td>
-    <td>295</td>
+    <td>290</td>
     <td>
     
       Ruby
@@ -546,7 +546,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/9cecfc695240b56e5d3c1a5dc3830967?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/sickill/racksh">racksh</a></td>
     <td><a href="https://github.com/sickill">sickill</a></td>
-    <td>276</td>
+    <td>278</td>
     <td>
     
       Ruby
@@ -564,7 +564,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/a8cb0cb6a2406ee9d85ea72f7c040697?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/psionides/Gitifier">Gitifier</a></td>
     <td><a href="https://github.com/psionides">psionides</a></td>
-    <td>262</td>
+    <td>266</td>
     <td>
     
       Objective-C
@@ -582,7 +582,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/1bebaa679e276c978d20635a1fa86130?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/nbartlomiej/foggy">foggy</a></td>
     <td><a href="https://github.com/nbartlomiej">nbartlomiej</a></td>
-    <td>250</td>
+    <td>251</td>
     <td>
     
       JavaScript
@@ -598,7 +598,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/d931e882413a3a40b0dc508b7a5f5de0?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/futuresimple/dropbox-api">dropbox-api</a></td>
     <td><a href="https://github.com/futuresimple">futuresimple</a></td>
-    <td>228</td>
+    <td>234</td>
     <td>
     
       Ruby
@@ -614,7 +614,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ee52f832cc820572f0a097d0b88dafe7?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/TobiaszCudnik/phpquery">phpquery</a></td>
     <td><a href="https://github.com/TobiaszCudnik">TobiaszCudnik</a></td>
-    <td>193</td>
+    <td>198</td>
     <td>
     
     </td>
@@ -628,7 +628,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/3478efd1de1ba3c35784d870b77fae89?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/ciembor/4bit">4bit</a></td>
     <td><a href="https://github.com/ciembor">ciembor</a></td>
-    <td>191</td>
+    <td>197</td>
     <td>
     
       JavaScript
@@ -646,7 +646,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/9cecfc695240b56e5d3c1a5dc3830967?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/sickill/ascii.io">ascii.io</a></td>
     <td><a href="https://github.com/sickill">sickill</a></td>
-    <td>184</td>
+    <td>187</td>
     <td>
     
       Ruby
@@ -661,6 +661,24 @@
   
   <tr>
     <th>18</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/9cecfc695240b56e5d3c1a5dc3830967?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/sickill/rainbow">rainbow</a></td>
+    <td><a href="https://github.com/sickill">sickill</a></td>
+    <td>165</td>
+    <td>
+    
+      Ruby
+    
+    </td>
+    <td>
+    
+      <a href="http://ku1ik.com/">website</a>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>19</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/d931e882413a3a40b0dc508b7a5f5de0?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/futuresimple/broadcast">broadcast</a></td>
     <td><a href="https://github.com/futuresimple">futuresimple</a></td>
@@ -676,32 +694,14 @@
   </tr>
   
   <tr>
-    <th>19</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/9cecfc695240b56e5d3c1a5dc3830967?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/sickill/rainbow">rainbow</a></td>
-    <td><a href="https://github.com/sickill">sickill</a></td>
-    <td>160</td>
-    <td>
-    
-      Ruby
-    
-    </td>
-    <td>
-    
-      <a href="http://ku1ik.com/">website</a>
-    
-    </td>
-  </tr>
-  
-  <tr>
     <th>20</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/9cecfc695240b56e5d3c1a5dc3830967?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/sickill/vim-pasta">vim-pasta</a></td>
-    <td><a href="https://github.com/sickill">sickill</a></td>
-    <td>148</td>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/dbb68f76a8af5491f3ad4f12685bd437?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/kgabis/parson">parson</a></td>
+    <td><a href="https://github.com/kgabis">kgabis</a></td>
+    <td>152</td>
     <td>
     
-      VimL
+      C
     
     </td>
     <td>

@@ -30,23 +30,6 @@
   
   <tr>
     <th>2</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/437560296a2fefe116d8af0710e14b24?s=36') 2px 2px no-repeat"></td>
-    <td>
-    
-      <strong>Michał Orman</strong>
-      
-    </td>
-    <td><a href="https://github.com/michalorman">michalorman</a></td>
-    <td>29</td>
-    <td>    
-    
-      <a href="http://michalorman.pl">website</a>
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>3</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/4e0ffa282375b7705d20cb7bcc899c3e?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -54,10 +37,27 @@
       
     </td>
     <td><a href="https://github.com/afterdesign">afterdesign</a></td>
-    <td>28</td>
+    <td>30</td>
     <td>    
     
       <a href="http://malinowski.be">website</a>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>3</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/437560296a2fefe116d8af0710e14b24?s=36') 2px 2px no-repeat"></td>
+    <td>
+    
+      <strong>Michał Orman</strong>
+      
+    </td>
+    <td><a href="https://github.com/michalorman">michalorman</a></td>
+    <td>28</td>
+    <td>    
+    
+      <a href="http://michalorman.pl">website</a>
     
     </td>
   </tr>
@@ -258,23 +258,6 @@
   
   <tr>
     <th>16</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/20e0a6302619161433abcc0d0c473f33?s=36') 2px 2px no-repeat"></td>
-    <td>
-    
-      <strong>skoczo</strong>
-      
-    </td>
-    <td><a href="https://github.com/skoczo">skoczo</a></td>
-    <td>6</td>
-    <td>    
-    
-      <a href="http://www.skoczo.pl">website</a>
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>17</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/c571146995c46e417fefb2fd9c76747a?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -291,7 +274,7 @@
   </tr>
   
   <tr>
-    <th>18</th>
+    <th>17</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/28c7d6fd11f664894ee2b8d688e442d8?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -306,7 +289,7 @@
   </tr>
   
   <tr>
-    <th>19</th>
+    <th>18</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/1bc04d5f87efdf0b0abbd0750c5c915c?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -323,7 +306,7 @@
   </tr>
   
   <tr>
-    <th>20</th>
+    <th>19</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/81fdbf825f62126262fae8d366b6b896?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -340,7 +323,7 @@
   </tr>
   
   <tr>
-    <th>21</th>
+    <th>20</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/a7c6f264e954fbde76f992d2205cbfec?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -352,6 +335,23 @@
     <td>    
     
       <a href="http://blog.mino.pl">website</a>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>21</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/71a0c0e694feca12c86221662aa6059e?s=36') 2px 2px no-repeat"></td>
+    <td>
+    
+      <strong>Leszek Gruchała</strong>
+      
+    </td>
+    <td><a href="https://github.com/leszekgruchala">leszekgruchala</a></td>
+    <td>4</td>
+    <td>    
+    
+      <a href="http://www.gruchala.eu">website</a>
     
     </td>
   </tr>
@@ -388,13 +388,13 @@
   
   <tr>
     <th>2</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/01a9f2f9bf0fb68c18254e7edf18795f?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/lpiepiora/docky-thunderbird">docky-thunderbird</a></td>
-    <td><a href="https://github.com/lpiepiora">lpiepiora</a></td>
-    <td>9</td>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/4e0ffa282375b7705d20cb7bcc899c3e?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/afterdesign/MacTerminal">MacTerminal</a></td>
+    <td><a href="https://github.com/afterdesign">afterdesign</a></td>
+    <td>11</td>
     <td>
     
-      JavaScript
+      Python
     
     </td>
     <td>
@@ -404,13 +404,13 @@
   
   <tr>
     <th>3</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/4e0ffa282375b7705d20cb7bcc899c3e?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/afterdesign/MacTerminal">MacTerminal</a></td>
-    <td><a href="https://github.com/afterdesign">afterdesign</a></td>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/01a9f2f9bf0fb68c18254e7edf18795f?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/lpiepiora/docky-thunderbird">docky-thunderbird</a></td>
+    <td><a href="https://github.com/lpiepiora">lpiepiora</a></td>
     <td>9</td>
     <td>
     
-      Python
+      JavaScript
     
     </td>
     <td>
@@ -436,13 +436,13 @@
   
   <tr>
     <th>5</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/437560296a2fefe116d8af0710e14b24?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/michalorman/spring-rest-archetype">spring-rest-archetype</a></td>
-    <td><a href="https://github.com/michalorman">michalorman</a></td>
-    <td>6</td>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/bcc626b84cc3fa5cf4c2272457526e1f?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/mysz/MyLittleBlog">MyLittleBlog</a></td>
+    <td><a href="https://github.com/mysz">mysz</a></td>
+    <td>5</td>
     <td>
     
-      Java
+      PHP
     
     </td>
     <td>
@@ -452,13 +452,13 @@
   
   <tr>
     <th>6</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/bcc626b84cc3fa5cf4c2272457526e1f?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/mysz/MyLittleBlog">MyLittleBlog</a></td>
-    <td><a href="https://github.com/mysz">mysz</a></td>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/437560296a2fefe116d8af0710e14b24?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/michalorman/spring-rest-archetype">spring-rest-archetype</a></td>
+    <td><a href="https://github.com/michalorman">michalorman</a></td>
     <td>5</td>
     <td>
     
-      PHP
+      Java
     
     </td>
     <td>
@@ -500,6 +500,22 @@
   
   <tr>
     <th>9</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/2e8249aaa467feaf9ac9f2f5b85e5643?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/tomaszwojcik/spring-mvc-hibernate">spring-mvc-hibernate</a></td>
+    <td><a href="https://github.com/tomaszwojcik">tomaszwojcik</a></td>
+    <td>4</td>
+    <td>
+    
+      Java
+    
+    </td>
+    <td>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>10</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/a21b70a407efee12297776e53e515448?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/Barthalion/moonrise">moonrise</a></td>
     <td><a href="https://github.com/Barthalion">Barthalion</a></td>
@@ -517,7 +533,7 @@
   </tr>
   
   <tr>
-    <th>10</th>
+    <th>11</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ed2d261ca5db36a17e690dc736dcd9ef?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/dluksza/FanLink">FanLink</a></td>
     <td><a href="https://github.com/dluksza">dluksza</a></td>
@@ -533,26 +549,10 @@
   </tr>
   
   <tr>
-    <th>11</th>
+    <th>12</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/d7ac71d917b0b6850c6a86250c3246f2?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/MADWI/Widget_MAD">Widget_MAD</a></td>
     <td><a href="https://github.com/MADWI">MADWI</a></td>
-    <td>4</td>
-    <td>
-    
-      Java
-    
-    </td>
-    <td>
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>12</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/2e8249aaa467feaf9ac9f2f5b85e5643?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/tomaszwojcik/spring-mvc-hibernate">spring-mvc-hibernate</a></td>
-    <td><a href="https://github.com/tomaszwojcik">tomaszwojcik</a></td>
     <td>4</td>
     <td>
     
@@ -614,6 +614,22 @@
   
   <tr>
     <th>16</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/2e8249aaa467feaf9ac9f2f5b85e5643?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/tomaszwojcik/dependency-injection">dependency-injection</a></td>
+    <td><a href="https://github.com/tomaszwojcik">tomaszwojcik</a></td>
+    <td>3</td>
+    <td>
+    
+      Java
+    
+    </td>
+    <td>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>17</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/bcc626b84cc3fa5cf4c2272457526e1f?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/mysz/dot-vim">dot-vim</a></td>
     <td><a href="https://github.com/mysz">mysz</a></td>
@@ -631,7 +647,7 @@
   </tr>
   
   <tr>
-    <th>17</th>
+    <th>18</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/bcc626b84cc3fa5cf4c2272457526e1f?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/mysz/try-tiny-smartcatch">try-tiny-smartcatch</a></td>
     <td><a href="https://github.com/mysz">mysz</a></td>
@@ -649,7 +665,7 @@
   </tr>
   
   <tr>
-    <th>18</th>
+    <th>19</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ed2d261ca5db36a17e690dc736dcd9ef?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/dluksza/clojure-koans">clojure-koans</a></td>
     <td><a href="https://github.com/dluksza">dluksza</a></td>
@@ -665,7 +681,7 @@
   </tr>
   
   <tr>
-    <th>19</th>
+    <th>20</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/7823cbf5094703e731e5bc8c6180b70a?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/ubik86/pl_cities">pl_cities</a></td>
     <td><a href="https://github.com/ubik86">ubik86</a></td>
@@ -681,7 +697,7 @@
   </tr>
   
   <tr>
-    <th>20</th>
+    <th>21</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/7823cbf5094703e731e5bc8c6180b70a?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/ubik86/tafel_tree_view">tafel_tree_view</a></td>
     <td><a href="https://github.com/ubik86">ubik86</a></td>
@@ -697,26 +713,10 @@
   </tr>
   
   <tr>
-    <th>21</th>
+    <th>22</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/437560296a2fefe116d8af0710e14b24?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/michalorman/parcelscout">parcelscout</a></td>
     <td><a href="https://github.com/michalorman">michalorman</a></td>
-    <td>3</td>
-    <td>
-    
-      Java
-    
-    </td>
-    <td>
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>22</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/2e8249aaa467feaf9ac9f2f5b85e5643?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/tomaszwojcik/dependency-injection">dependency-injection</a></td>
-    <td><a href="https://github.com/tomaszwojcik">tomaszwojcik</a></td>
     <td>3</td>
     <td>
     

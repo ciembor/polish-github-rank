@@ -20,7 +20,7 @@
       
     </td>
     <td><a href="https://github.com/razorjack">razorjack</a></td>
-    <td>1365</td>
+    <td>1384</td>
     <td>    
     
       <a href="http://razorjack.net">website</a>
@@ -52,7 +52,7 @@
       
     </td>
     <td><a href="https://github.com/nigma">nigma</a></td>
-    <td>155</td>
+    <td>178</td>
     <td>    
     
       <a href="http://en.ig.ma">website</a>
@@ -69,7 +69,7 @@
       
     </td>
     <td><a href="https://github.com/telecapoland">telecapoland</a></td>
-    <td>154</td>
+    <td>155</td>
     <td>    
     
       <a href="http://telecapoland.blogspot.com/">website</a>
@@ -145,21 +145,6 @@
   
   <tr>
     <th>9</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/f6414bf066cbd8617c82569fb12fc64f?s=36') 2px 2px no-repeat"></td>
-    <td>
-    
-      <strong>Paweł Placzyński</strong>
-      
-    </td>
-    <td><a href="https://github.com/placek">placek</a></td>
-    <td>19</td>
-    <td>    
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>10</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/15868028f87187ec468654cc89f10b40?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -167,10 +152,25 @@
       
     </td>
     <td><a href="https://github.com/lukaszr">lukaszr</a></td>
-    <td>17</td>
+    <td>19</td>
     <td>    
     
       <a href="http://rodziewicz.com.pl">website</a>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>10</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/f6414bf066cbd8617c82569fb12fc64f?s=36') 2px 2px no-repeat"></td>
+    <td>
+    
+      <strong>Paweł Placzyński</strong>
+      
+    </td>
+    <td><a href="https://github.com/placek">placek</a></td>
+    <td>17</td>
+    <td>    
     
     </td>
   </tr>
@@ -271,6 +271,40 @@
   
   <tr>
     <th>17</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/3bf8ac59830d9faf75c79c82d62f5776?s=36') 2px 2px no-repeat"></td>
+    <td>
+    
+      <strong>Michał Ostruszka</strong>
+      
+    </td>
+    <td><a href="https://github.com/mostr">mostr</a></td>
+    <td>10</td>
+    <td>    
+    
+      <a href="http://michalostruszka.pl">website</a>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>18</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/fbae41878cd08695082927e99420b02b?s=36') 2px 2px no-repeat"></td>
+    <td>
+    
+      <strong>Bartłomiej Kozal</strong>
+      
+    </td>
+    <td><a href="https://github.com/bkzl">bkzl</a></td>
+    <td>10</td>
+    <td>    
+    
+      <a href="http://mxt.re">website</a>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>19</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/c4c5c0528456addfac0fd6a6af90dc2a?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -285,24 +319,7 @@
   </tr>
   
   <tr>
-    <th>18</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/fbae41878cd08695082927e99420b02b?s=36') 2px 2px no-repeat"></td>
-    <td>
-    
-      <strong>Bartłomiej Kozal</strong>
-      
-    </td>
-    <td><a href="https://github.com/bkzl">bkzl</a></td>
-    <td>9</td>
-    <td>    
-    
-      <a href="http://mxt.re">website</a>
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>19</th>
+    <th>20</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/92566e5abd00d254c41e0c0fdcbe80ea?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -319,7 +336,7 @@
   </tr>
   
   <tr>
-    <th>20</th>
+    <th>21</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/5ea2268491032fe344c58e191f4a9667?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -352,7 +369,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/b56c3d9287edebbf6931f231811fc57b?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/razorjack/quicksand">quicksand</a></td>
     <td><a href="https://github.com/razorjack">razorjack</a></td>
-    <td>1338</td>
+    <td>1357</td>
     <td>
     
       JavaScript
@@ -370,7 +387,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/9e32ada1e23508db1cb951d2a09d123f?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/telecapoland/jamendo-android">jamendo-android</a></td>
     <td><a href="https://github.com/telecapoland">telecapoland</a></td>
-    <td>154</td>
+    <td>155</td>
     <td>
     
       Java
@@ -388,7 +405,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/d79517fa02d2ef9fdc8215123b99d35b?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/ayoy/ThumbnailPickerView">ThumbnailPickerView</a></td>
     <td><a href="https://github.com/ayoy">ayoy</a></td>
-    <td>143</td>
+    <td>142</td>
     <td>
     
       Objective-C
@@ -404,7 +421,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/d79517fa02d2ef9fdc8215123b99d35b?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/ayoy/qoauth">qoauth</a></td>
     <td><a href="https://github.com/ayoy">ayoy</a></td>
-    <td>68</td>
+    <td>69</td>
     <td>
     
       C++
@@ -420,7 +437,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/a41002545e2b0d8ed73bc1ce40f00bf8?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/nigma/StackScripts">StackScripts</a></td>
     <td><a href="https://github.com/nigma">nigma</a></td>
-    <td>52</td>
+    <td>53</td>
     <td>
     
       Shell
@@ -456,7 +473,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/a41002545e2b0d8ed73bc1ce40f00bf8?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/nigma/pywt">pywt</a></td>
     <td><a href="https://github.com/nigma">nigma</a></td>
-    <td>44</td>
+    <td>46</td>
     <td>
     
       C
@@ -487,6 +504,22 @@
   
   <tr>
     <th>9</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/a41002545e2b0d8ed73bc1ce40f00bf8?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/nigma/django-easy-pjax">django-easy-pjax</a></td>
+    <td><a href="https://github.com/nigma">nigma</a></td>
+    <td>27</td>
+    <td>
+    
+      Python
+    
+    </td>
+    <td>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>10</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/690c8d4a36c18855f22ba087b555bc08?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/bragi/Ragnarson.com">Ragnarson.com</a></td>
     <td><a href="https://github.com/bragi">bragi</a></td>
@@ -499,22 +532,6 @@
     <td>
     
       <a href="http://ragnarson.com">website</a>
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>10</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/a41002545e2b0d8ed73bc1ce40f00bf8?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/nigma/django-easy-pjax">django-easy-pjax</a></td>
-    <td><a href="https://github.com/nigma">nigma</a></td>
-    <td>24</td>
-    <td>
-    
-      Python
-    
-    </td>
-    <td>
     
     </td>
   </tr>

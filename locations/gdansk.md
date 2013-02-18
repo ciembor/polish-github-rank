@@ -20,7 +20,7 @@
       
     </td>
     <td><a href="https://github.com/warpech">warpech</a></td>
-    <td>1635</td>
+    <td>1806</td>
     <td>    
     
       <a href="http://www.nextgen.pl/">website</a>
@@ -71,7 +71,7 @@
       
     </td>
     <td><a href="https://github.com/tomaszj">tomaszj</a></td>
-    <td>42</td>
+    <td>41</td>
     <td>    
     
     </td>
@@ -128,6 +128,23 @@
   
   <tr>
     <th>8</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/eaaf038292771e7ae25f730e55ded0e9?s=36') 2px 2px no-repeat"></td>
+    <td>
+    
+      <strong>Łukasz Budnik</strong>
+      
+    </td>
+    <td><a href="https://github.com/lukaszbudnik">lukaszbudnik</a></td>
+    <td>23</td>
+    <td>    
+    
+      <a href="http://lukaszbudnik.blogspot.com">website</a>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>9</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ae70096603b3ecb9de825c0dd71db903?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -144,7 +161,7 @@
   </tr>
   
   <tr>
-    <th>9</th>
+    <th>10</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/48f816ab1aaa88daa0bf270b10a99d23?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -161,7 +178,7 @@
   </tr>
   
   <tr>
-    <th>10</th>
+    <th>11</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/859903fde6a6e79dfba29bc2b42208bd?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -176,7 +193,7 @@
   </tr>
   
   <tr>
-    <th>11</th>
+    <th>12</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/b406e373b5e27fcf3cc6b54c7e5d2ab0?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -193,7 +210,7 @@
   </tr>
   
   <tr>
-    <th>12</th>
+    <th>13</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/5ccfaf8222ede7ba33b45833c93020f6?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -208,7 +225,7 @@
   </tr>
   
   <tr>
-    <th>13</th>
+    <th>14</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/407c9cfd86fd5a71fa5e1dfb8b542f94?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -223,7 +240,7 @@
   </tr>
   
   <tr>
-    <th>14</th>
+    <th>15</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/589e3f5d9ada3b1f98052ffce1146af0?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -240,7 +257,7 @@
   </tr>
   
   <tr>
-    <th>15</th>
+    <th>16</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/0adf7d099f3d29875d702a4ad18e0dee?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -255,22 +272,24 @@
   </tr>
   
   <tr>
-    <th>16</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/d0740226fd871669e4ddf1ef9a0d944b?s=36') 2px 2px no-repeat"></td>
+    <th>17</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/4da0a9f6e4d536eec6b730c634c4fdcd?s=36') 2px 2px no-repeat"></td>
     <td>
     
-      <strong>Filip Rogaczewski</strong>
+      <strong>Karol Sójko</strong>
       
     </td>
-    <td><a href="https://github.com/frogaczewski">frogaczewski</a></td>
+    <td><a href="https://github.com/karolsojko">karolsojko</a></td>
     <td>10</td>
     <td>    
+    
+      <a href="http://blog.karolsojko.com">website</a>
     
     </td>
   </tr>
   
   <tr>
-    <th>17</th>
+    <th>18</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/45f099034fd1ee667159398c6f509c5f?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -282,23 +301,6 @@
     <td>    
     
       <a href="http://kepisty89.blogspot.com/">website</a>
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>18</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/4da0a9f6e4d536eec6b730c634c4fdcd?s=36') 2px 2px no-repeat"></td>
-    <td>
-    
-      <strong>Karol Sójko</strong>
-      
-    </td>
-    <td><a href="https://github.com/karolsojko">karolsojko</a></td>
-    <td>9</td>
-    <td>    
-    
-      <a href="http://blog.karolsojko.com">website</a>
     
     </td>
   </tr>
@@ -322,6 +324,21 @@
   
   <tr>
     <th>20</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/d0740226fd871669e4ddf1ef9a0d944b?s=36') 2px 2px no-repeat"></td>
+    <td>
+    
+      <strong>Filip Rogaczewski</strong>
+      
+    </td>
+    <td><a href="https://github.com/frogaczewski">frogaczewski</a></td>
+    <td>9</td>
+    <td>    
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>21</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/d8adba4a4e72142635b6accb36267c12?s=36') 2px 2px no-repeat"></td>
     <td>
     
@@ -354,7 +371,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ead828751eb7cfe023e09798e5e27c50?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/warpech/jquery-handsontable">jquery-handsontable</a></td>
     <td><a href="https://github.com/warpech">warpech</a></td>
-    <td>1420</td>
+    <td>1588</td>
     <td>
     
       JavaScript
@@ -370,7 +387,7 @@
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ead828751eb7cfe023e09798e5e27c50?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/warpech/sheetclip">sheetclip</a></td>
     <td><a href="https://github.com/warpech">warpech</a></td>
-    <td>201</td>
+    <td>202</td>
     <td>
     
       JavaScript
@@ -451,13 +468,13 @@
   
   <tr>
     <th>7</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/e6c32e7f7e21a5c4a90e2d0b63608480?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/rawongithub/minitest-rails-shoulda">minitest-rails-shoulda</a></td>
-    <td><a href="https://github.com/rawongithub">rawongithub</a></td>
-    <td>11</td>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/eaaf038292771e7ae25f730e55ded0e9?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/lukaszbudnik/hackaton-portal">hackaton-portal</a></td>
+    <td><a href="https://github.com/lukaszbudnik">lukaszbudnik</a></td>
+    <td>12</td>
     <td>
     
-      Ruby
+      Scala
     
     </td>
     <td>
@@ -467,13 +484,13 @@
   
   <tr>
     <th>8</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ae70096603b3ecb9de825c0dd71db903?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/matthewpl/fooaudio">fooaudio</a></td>
-    <td><a href="https://github.com/matthewpl">matthewpl</a></td>
-    <td>9</td>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/e6c32e7f7e21a5c4a90e2d0b63608480?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/rawongithub/minitest-rails-shoulda">minitest-rails-shoulda</a></td>
+    <td><a href="https://github.com/rawongithub">rawongithub</a></td>
+    <td>11</td>
     <td>
     
-      C++
+      Ruby
     
     </td>
     <td>
@@ -499,6 +516,22 @@
   
   <tr>
     <th>10</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ae70096603b3ecb9de825c0dd71db903?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/matthewpl/fooaudio">fooaudio</a></td>
+    <td><a href="https://github.com/matthewpl">matthewpl</a></td>
+    <td>9</td>
+    <td>
+    
+      C++
+    
+    </td>
+    <td>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>11</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ebc95603a264f87d8cd670d8976ef4f2?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/pjg/ruby_extensions">ruby_extensions</a></td>
     <td><a href="https://github.com/pjg">pjg</a></td>
@@ -514,7 +547,7 @@
   </tr>
   
   <tr>
-    <th>11</th>
+    <th>12</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ebc95603a264f87d8cd670d8976ef4f2?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/pjg/wp_movie_ratings">wp_movie_ratings</a></td>
     <td><a href="https://github.com/pjg">pjg</a></td>
@@ -532,7 +565,7 @@
   </tr>
   
   <tr>
-    <th>12</th>
+    <th>13</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/b9c3f154a8421619fd8e9d9889568a95?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/tomaszj/sinatra-datamapper-sample">sinatra-datamapper-sample</a></td>
     <td><a href="https://github.com/tomaszj">tomaszj</a></td>
@@ -548,7 +581,23 @@
   </tr>
   
   <tr>
-    <th>13</th>
+    <th>14</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ead828751eb7cfe023e09798e5e27c50?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/warpech/angular-ui-handsontable">angular-ui-handsontable</a></td>
+    <td><a href="https://github.com/warpech">warpech</a></td>
+    <td>8</td>
+    <td>
+    
+      JavaScript
+    
+    </td>
+    <td>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>15</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ebc95603a264f87d8cd670d8976ef4f2?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/pjg/dotfiles">dotfiles</a></td>
     <td><a href="https://github.com/pjg">pjg</a></td>
@@ -564,7 +613,7 @@
   </tr>
   
   <tr>
-    <th>14</th>
+    <th>16</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/c41b3a735b666e1506c99a6795d61639?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/mkwiatkowski/pythoscope">pythoscope</a></td>
     <td><a href="https://github.com/mkwiatkowski">mkwiatkowski</a></td>
@@ -582,27 +631,11 @@
   </tr>
   
   <tr>
-    <th>15</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/ead828751eb7cfe023e09798e5e27c50?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/warpech/angular-ui-handsontable">angular-ui-handsontable</a></td>
-    <td><a href="https://github.com/warpech">warpech</a></td>
-    <td>7</td>
-    <td>
-    
-      JavaScript
-    
-    </td>
-    <td>
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>16</th>
+    <th>17</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/4da0a9f6e4d536eec6b730c634c4fdcd?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/karolsojko/BinaryThinkingLastfmBundle">BinaryThinkingLastfmBundle</a></td>
     <td><a href="https://github.com/karolsojko">karolsojko</a></td>
-    <td>5</td>
+    <td>6</td>
     <td>
     
       PHP
@@ -616,39 +649,7 @@
   </tr>
   
   <tr>
-    <th>17</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/2af812ff3e23bb1043a67b53d9bb924d?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/rails4/ztm">ztm</a></td>
-    <td><a href="https://github.com/rails4">rails4</a></td>
-    <td>5</td>
-    <td>
-    
-      Ruby
-    
-    </td>
-    <td>
-    
-    </td>
-  </tr>
-  
-  <tr>
     <th>18</th>
-    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/2af812ff3e23bb1043a67b53d9bb924d?s=36') 2px 2px no-repeat"></td>
-    <td><a href="https://github.com/rails4/zadziory">zadziory</a></td>
-    <td><a href="https://github.com/rails4">rails4</a></td>
-    <td>5</td>
-    <td>
-    
-      JavaScript
-    
-    </td>
-    <td>
-    
-    </td>
-  </tr>
-  
-  <tr>
-    <th>19</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/2af812ff3e23bb1043a67b53d9bb924d?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/rails4/motomyszy-z-marsa">motomyszy-z-marsa</a></td>
     <td><a href="https://github.com/rails4">rails4</a></td>
@@ -664,7 +665,39 @@
   </tr>
   
   <tr>
+    <th>19</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/2af812ff3e23bb1043a67b53d9bb924d?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/rails4/zadziory">zadziory</a></td>
+    <td><a href="https://github.com/rails4">rails4</a></td>
+    <td>5</td>
+    <td>
+    
+      JavaScript
+    
+    </td>
+    <td>
+    
+    </td>
+  </tr>
+  
+  <tr>
     <th>20</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/2af812ff3e23bb1043a67b53d9bb924d?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/rails4/ztm">ztm</a></td>
+    <td><a href="https://github.com/rails4">rails4</a></td>
+    <td>5</td>
+    <td>
+    
+      Ruby
+    
+    </td>
+    <td>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>21</th>
     <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/3783f3806f8ce931f8f73bb354f27632?s=36') 2px 2px no-repeat"></td>
     <td><a href="https://github.com/retio/kohana-dotpay">kohana-dotpay</a></td>
     <td><a href="https://github.com/retio">retio</a></td>
@@ -672,6 +705,22 @@
     <td>
     
       PHP
+    
+    </td>
+    <td>
+    
+    </td>
+  </tr>
+  
+  <tr>
+    <th>22</th>
+    <td style="display: block; width: 36px; height: 36px; padding: 2px; border: 0; background: #fff url('http://gravatar.com/avatar/eaaf038292771e7ae25f730e55ded0e9?s=36') 2px 2px no-repeat"></td>
+    <td><a href="https://github.com/lukaszbudnik/cxf-jax-rs-example">cxf-jax-rs-example</a></td>
+    <td><a href="https://github.com/lukaszbudnik">lukaszbudnik</a></td>
+    <td>5</td>
+    <td>
+    
+      Java
     
     </td>
     <td>
